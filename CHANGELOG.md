@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/LetsStreamIt/prova-semantic-release/compare/1.0.0...1.1.0) (2024-07-27)
+
+### Features
+
+* provo una minor ([388615b](https://github.com/LetsStreamIt/prova-semantic-release/commit/388615be5c6f945987b061e0db13b4e0d96d3aa0))
+
 ## 1.0.0 (2024-07-27)
 
 ### ⚠ BREAKING CHANGES
