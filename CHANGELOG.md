@@ -1,3 +1,14 @@
+## [1.2.0](https://github.com/LetsStreamIt/prova-semantic-release/compare/1.1.0...1.2.0) (2024-07-27)
+
+### Features
+
+* EDIT 1 ([e8dca58](https://github.com/LetsStreamIt/prova-semantic-release/commit/e8dca58b25eb28c98cc1b3e828d15e1d8d8c140f))
+* EDIT 2 ([809810c](https://github.com/LetsStreamIt/prova-semantic-release/commit/809810c75f67758ef857ba696299f9923fc228ba))
+
+### General maintenance
+
+* what chore triggers?? ([b5ecf4b](https://github.com/LetsStreamIt/prova-semantic-release/commit/b5ecf4b8f33d273ff52a76dac5e1a792d9a251f7))
+
 ## [1.1.0](https://github.com/LetsStreamIt/prova-semantic-release/compare/1.0.0...1.1.0) (2024-07-27)
 
 ### Features
